@@ -46,6 +46,9 @@ module.exports = {
           'max': '575.98px'
         },
       },
+      colors: {
+        customblue: "#445f86",
+      },
     },
   },
   plugins: [
